@@ -1,2 +1,2 @@
-# odiin_recipies
+# odin_recipies
 odin project 1st
